@@ -2,12 +2,12 @@
 This project implements a binary counter using an AVR microcontroller and demonstrates fundamental skills in hardware interfacing and embedded C programming.
 
 # Features 
--Increment / Decrement binary numbers (0–7) via push buttons.
--Pause / Resume counter operations.
--Reset to zero with LED flashing indication.
--Binary output displayed on RGB LEDs.
--7-segment display to show the current number.
--Buzzer alerts for invalid operations (incrementing past 7 or decrementing below 0).
+-Increment / Decrement binary numbers (0–7) via push buttons.  
+-Pause / Resume counter operations.  
+-Reset to zero with LED flashing indication.  
+-Binary output displayed on RGB LEDs.  
+-7-segment display to show the current number.  
+-Buzzer alerts for invalid operations (incrementing past 7 or decrementing below 0).  
 
 ✅ Debounced button handling
 ✅ Includes Proteus simulation
